@@ -4,6 +4,6 @@
 
 # Failure test case
 
- # Symptom of that failure testing
+# Symptom of that failure testing
  
- # The bug, the symptom, and the failure-inducing input.
+# The bug, the symptom, and the failure-inducing input.
